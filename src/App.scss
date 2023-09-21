@@ -1,0 +1,39 @@
+.todos {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: left;
+  margin-top: 2rem;
+  border: 2px solid black;
+  padding: 2rem;
+}
+
+.description {
+  margin-top: 2rem;
+
+  p {
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+
+  ul {
+    li {
+      font-size: 1.2rem;
+      line-height: 1.5rem;
+    }
+  }
+}
+
+.loading {
+  font-size: 1.6rem;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.note {
+  list-style: none;
+  li {
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+  }
+}
