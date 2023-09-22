@@ -75,3 +75,18 @@ This library offers much more than just caching data. It's a versatile toolset f
 Here are some useful resources for further information:
 
 - [Official TanStack Query Documentation](https://tanstack.com/query/v3): The official documentation provides in-depth information about using TanStack Query.
+
+## About Me
+
+Hi there! I'm Mihir Modi, a full stack developer. I'm passionate about programming and I embarked on this journey to make the world a better place.
+
+## Connect with me
+
+Feel free to reach out if you have any questions, suggestions, or just want to connect. You can find me at:
+
+- [LinkedIn](https://www.linkedin.com/in/mihirmodi14/)
+- [GitHub](https://github.com/MihirModi14)
+- [Telegram](https://t.me/MihirModi14)
+- Email: [modimihir960@gmail.com](mailto:modimihir960@gmail.com)
+
+Thank you for visiting my project! I hope you enjoy exploring my work as much as I enjoyed creating it.
